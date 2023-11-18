@@ -1,4 +1,6 @@
 ## flask app for hello world
+#python -m venv .venv
+#
 
 from flask import Flask
 import numpy as np
